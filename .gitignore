@@ -19,6 +19,9 @@ env/
 .idea/
 .vscode/
 
+# macOS
+.DS_Store
+
 # Tool output (results are generated, not source)
 *.csv
 *.json
